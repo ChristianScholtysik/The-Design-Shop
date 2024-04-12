@@ -10,7 +10,7 @@ Live demo [_here_](https://christianscholtysik.github.io/The-Design-Shop/).
 
 ## General Information
 
-- Website Project to learn Flexbox and CSS
+- Website Project to learn Flexbox and Grid
 
 ## Technologies Used
 
